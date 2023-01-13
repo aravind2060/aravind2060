@@ -9,6 +9,6 @@ Here are some ideas to get you started:
 - 🧑‍💻 Currently Working in Capgemini
 - 🌱 Living to learn
 - 👯 Always ready to collaborate with curious people.
-- 💕 Loves teaching,helping,and learn new things.
+- 💕 Money cannot buy happiness but Teaching and Music will bring happiness :)
 - 📫 To share thoughts and ideas reach me over at : aravind4532@gmail.com or https://www.linkedin.com/in/aravind4532/
 
