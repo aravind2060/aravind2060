@@ -1,6 +1,6 @@
 # **Aravinda Reddy Gangalakunta**
 
-| [📞 +1 704-369-1398](tel:+17043691398) | [✉️ aravind4532@gmail.com](mailto:aravind4532@gmail.com) | [LinkedIn](https://www.linkedin.com/in/aravind4532) | [GitHub](https://github.com/aravind2060) |
+|  [✉️ aravind4532@gmail.com](mailto:aravind4532@gmail.com) | [LinkedIn](https://www.linkedin.com/in/aravind4532) | [GitHub](https://github.com/aravind2060) |
 
 ---
 
