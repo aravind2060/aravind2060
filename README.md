@@ -1,93 +1,84 @@
 # **Aravinda Reddy Gangalakunta**
 
-|  [✉️ aravind4532@gmail.com](mailto:aravind4532@gmail.com) | [LinkedIn](https://www.linkedin.com/in/aravind4532) | [GitHub](https://github.com/aravind2060) |
+📧 [aravind4532@gmail.com](mailto:aravind4532@gmail.com)  | 🔗 [LinkedIn](https://www.linkedin.com/in/aravind4532) |  💻 [GitHub](https://github.com/aravind2060)
 
 ---
 
-## **🎓 Education**
+## 🎓 **Education**
 
-### **University of North Carolina at Charlotte**
-**Master's in Computer Science with Data Science Concentration**  
-*GPA: 3.6/4.0*  
-*January 2024 - May 2025*
+### University of North Carolina at Charlotte  
+**Master's in Computer Science – Data Science Concentration**     *GPA: 3.6 / 4.0*    *Jan 2024 – May 2025*
 
-### **Lovely Professional University**
-**Bachelor of Technology in Computer Science and Engineering**  
-*CGPA: 8.59/10*  
-*August 2016 - July 2020*
+### Lovely Professional University  
+**B.Tech in Computer Science and Engineering**                    *CGPA: 8.59 / 10*   *Aug 2016 – Jul 2020*
 
 ---
 
-## **💻 Skills**
+## 💻 **Technical Skills**
 
-| **Languages**          | Java, Python, C++, JavaScript, HTML, CSS, Bash                     |
-|------------------------|--------------------------------------------------------------------|
-| **Databases**          | Oracle SQL, NoSQL, Elastic Search                                  |
-| **Frameworks**         | Spring Boot, JPA, Pandas, Numpy, Matplotlib                        |
-| **Technologies**       | AWS, Kafka, Docker, Kubernetes, Talend, Hadoop, Spark, Git, GitHub |
-
----
-
-## **🛠 Experience**
-
-### **University of North Carolina at Charlotte**  
-**Instructional Assistant for Cloud Computing for Data Analysis**  
-*August 2024 – December 2024*  
-**Under Professor: Marco Vieira**
-
-- 📑 Grading assignments and exams to evaluate student performance.
-- 📝 Assisting in setting question papers and creating assessments.
-- 👩‍🏫 Providing tutoring and support to students to enhance understanding of cloud computing concepts.
-- 💻 Guided students during labs and hands-on sessions, ensuring effective learning and application of cloud technologies.
+**Languages:** Java (Concurrency, Reactive), Python, C++, JavaScript, TypeScript  
+**Frameworks:** Spring Boot, Spring MVC, Spring Cloud, Hibernate, JPA, Microservices  
+**Frontend:** React, Angular, Next.js, Redux, Tailwind CSS, Bootstrap, HTML, CSS  
+**DevOps & Tools:** Docker, Kubernetes, Jenkins, GitHub Actions, Maven, Grafana, Shell Scripting  
+**Cloud & Big Data:** AWS (EC2, S3, RDS, Lambda, CloudFormation, EMR), Hadoop, Spark, Talend  
+**Databases:** Oracle, PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch  
+**Testing:** JUnit, Jest, React Testing Library  
+**Others:** Kafka, WebLogic, SMPP, Git, Linux , REST API, Design Patterns
 
 ---
 
-### **Capgemini Technology Services India Limited**  
+## 🛠️ **Experience**
+
+### University of North Carolina at Charlotte  
+**Graduate Teaching Assistant – Cloud Computing for Data Analysis (ITCS 6190/8190)**   *Aug 2024 – May 2025*  
+**Professor:** Dr. Marco Vieira  
+- 📑 Graded assignments and exams; assisted with preparing assessments.
+- 👨‍💻 Conducted tutoring sessions and hands-on labs for Hadoop and Spark.
+- 🐳 Guided students in using GitHub Classroom, Codespaces, Docker, and AWS EMR.
+- 💬 Provided support for cloud computing labs and infrastructure setup.
+---
+### Capgemini Technology Services India Limited  
 **Associate Consultant**  
-*July 2020 – January 2024*  
-**Bangalore, India**
+*Jul 2020 – Jan 2024* – *Bangalore, India*
 
-#### **Project 1: MACS (Machine and Control Systems) Vodafone Europe**
+#### 📡 Project 1: MACS (Machine and Control Systems) – Vodafone Europe  
+**Description:** Monitoring tool used by Vodafone engineers to track IP traffic (Diameter, Radius, Voice, SMS); processes over 3M records/hour.
 
-**Description**: MACS is a monitoring tool used by Vodafone engineers to track internet protocol traffic like Diameter Byte in/out, Radius, Voice, SMS, and others. The tool processes over 3 million records per hour.
+- 🔁 Modernized legacy system using **Elasticsearch**, **Kafka**, and **Grafana**.
+- ⚙️ Developed Talend ETL pipelines to process data from 50+ remote servers into Oracle DB.
+- 🌐 Built REST APIs for SMPP Native and VoLTE protocols using Spring.
+- 🔐 Improved access control with Spring Security; reduced unauthorized access by 90%.
+- ☁️ Led cloud migration to **AWS** (EC2, RDS, S3, VPC) for scalability.
+- 🐳 Containerized services with **Docker**, added real-time dashboards with **Grafana**.
+- 🐞 Resolved 150+ production issues through RCA and Java profiling.
 
-- 🔄 Revamped the legacy project using technologies like Elastic Search, Kafka, and Grafana.
-- 📊 Created Talend Jobs to transform and store data from 50+ remote servers into a database.
-- 🌐 Developed REST-based endpoints for SMPP Native and VoLTE Protocols.
-- 🛡 Updated roles & privileges design and replaced Log4J with Logback to fix vulnerabilities.
-- 🔧 Conducted Java profiling to analyze production resource upgrades.
-- 💻 Developed shell scripts for production maintenance.
-
-**Technologies Used**: Java, Spring MVC, Hibernate, Oracle DB, Angular, Kafka, Grafana, WebLogic, Linux, Talend, Elastic Search
-
----
-
-#### **Project 2: GEA and Nevian Vodafone Europe**
-
-**Description**: Network visual analyzer for Vodafone, used for DSL and optical fiber coverage checks.
-
-- 📲 Implemented OTP sending via Vodafone SMPP servers.
-- ⚙️ Implemented load balancing and high availability for the microservice.
-- 📐 Automated optical fiber coverage cost calculations.
-
-**Technologies Used**: Java 8, Spring Boot (Microservices), Java Multithreading, Concurrent Data Structures, Open SMPP Library, Oracle DB, Tomcat, Jenkins
+**Tech Stack:** Spring Boot, Angular, Hibernate, Oracle DB, Talend, Kafka, Elasticsearch, Grafana, Docker, AWS, WebLogic
 
 ---
 
-### **Intern**  
-*January 2020 – May 2020*  
-**Capgemini Technology Services India Limited**
+#### 🌐 Project 2: GEA & Nevian – Vodafone Europe  
+**Description:** Network visualization tool for DSL and optical fiber coverage analysis.
 
-- 🛠 Trained in Angular, Spring Boot, Java EE, JPA/Hibernate, Oracle DB.
-- 🏕 Developed "GreatOutdoors", an online store for outdoor and climbing gear using Java, Spring Boot, and Angular.
+- 🔐 Integrated OTP-based 2FA via Vodafone SMPP servers.
+- 🧪 Embraced TDD with **JUnit** and frontend testing using **Jest** & **React Testing Library**.
+- 🔄 Built microservices in Spring Boot with reliable session handling using **Redis**.
+- 🖥️ Developed a responsive UI with **React**, **TypeScript**, and **Tailwind CSS**.
+- 🚀 Implemented CI/CD pipelines with **Jenkins**, **Docker**, and **Kubernetes**.
+- 🧮 Automated fiber coverage and cost estimation logic.
+
+**Tech Stack:** Spring Boot (Microservices), React, Tailwind CSS, Redux, Redis, JUnit, SMPP, Jenkins, Docker, Kubernetes, Oracle DB
 
 ---
 
-## **📂 Academic Projects**
+### Capgemini Technology Services  
+**Software Engineer Intern**  
+*Jan 2020 – May 2020* - *Bangalore, India*
 
-### **Hadoop and Hive for Large Scale Data Analysis**  
-*January 2024 -- August 2024*
+- 🧠 Trained in Angular, Spring Boot, Java EE, JPA/Hibernate, and Oracle DB.
+- 🛍️ Built “GreatOutdoors,” an online shopping platform for outdoor gear using Java + Angular.
 
-- 🧹 Prepared and cleaned data, including handling missing values and outliers.
-- 🌦 Analyzed temperature and precipitation data to identify significant weather patterns.
-- 🔍 Used HiveQL to detect extreme weather events and examined climate change trends.
+---
+
+## 📜 **Certifications**
+
+- ✅ **[AWS Certified Solutions Architect – Associate (SAA-C03)](https://www.credly.com/badges/0ead7f84-7afb-46e6-9b22-b56bb284f493/public_url)**  
